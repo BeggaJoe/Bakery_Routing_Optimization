@@ -9,11 +9,8 @@ class Delivery:
 
         self.Ortschaften_Index = {Gebietsdaten["Ortschaft"][i]: (Gebietsdaten["Kategorie"][i], Gebietsdaten["OSM_ID"][i])
                                   for i in range(len(Gebietsdaten))}
-        
        
-
-       
+    def give(self, Zahl = 5):
+        self.Gebietsdaten[0:Zahl]
     
-    
-
        
