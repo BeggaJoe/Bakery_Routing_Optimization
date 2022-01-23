@@ -34,7 +34,7 @@ class Delivery:
         tags = {'landuse':True}
         Landuse_Polygon = ox.geometries.geometries_from_polygon(Kundengebiet_Polygon, tags)
 
-        Gebäude_Koordinaten_Wohngebiete = {}
+        self.Gebäude_Koordinaten_Wohngebiete = {}
 
         for Gebiet in Ortschaften_Index:
             Wohngebiet_Polygon = Landuse_Polygon.geometry[Ortschaften_Index[Gebiet]]
@@ -51,6 +51,6 @@ class Delivery:
 
                 Koordinaten_Gebäude.append(Koordinaten_Gebäude_Mittelpunkt)
 
-            Gebäude_Koordinaten_Wohngebiete[Gebiet] = Koordinaten_Gebäude
+            self.Gebäude_Koordinaten_Wohngebiete[Gebiet] = Koordinaten_Gebäude
 
-    Gebäude_Koordinaten_Wohngebiete
+    self.Gebäude_Koordinaten_Wohngebiete
