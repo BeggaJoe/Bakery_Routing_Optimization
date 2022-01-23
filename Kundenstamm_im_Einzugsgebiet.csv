@@ -1,0 +1,65 @@
+Nr.;Ortschaft;Kategorie;OSM_ID;Area_S;Area_M;Area_L;Gebäude_OSMnx;Einwohner;Kunden;Kunden_neu
+1;Astheim;way;26964858;-;Ja;-;141;841;3;3
+2;Bergtheim;relation;3750193;Ja;-;-;1064;2545;10;10
+3;Bibergau;way;389717069;-;Ja;-;637;661;3;3
+4;Dettelbach;way;26198521;-;Ja;-;1324;3316;3;3
+5;Dipbach;way;44312731;Ja;-;-;627;570;50;50
+6;Escherndorf;way;42678206;Ja;-;-;201;356;10;10
+7;Estenfeld;way;23953125;-;Ja;-;3164;5288;3;3
+8;Euerfeld;way;28151500;Ja;-;-;678;500;3;3
+9;Kürnach;way;28908526;Ja;-;-;340;4791;25;25
+10;Mühlhausen;way;23937192;-;Ja;-;388;462;3;3
+11;Neuses am Berg;way;27497088;Ja;-;-;500;524;0;5
+12;Obereisenheim;way;59948894;Ja;-;-;633;637;10;10
+13;Oberpleichfeld;way;28333880;Ja;-;-;824;1089;40;40
+14;Opferbaum;way;31540467;Ja;-;-;475;743;3;3
+15;Prosselsheim;way;42502846;Ja;-;-;680;739;50;50
+16;Püssensheim;way;127004313;Ja;-;-;379;365;50;50
+17;Schernau;way;36736032;Ja;-;-;478;327;3;3
+18;Schnepfenbach;way;168547302;Ja;-;-;186;165;3;3
+19;Schwanfeld;way;29026091;Ja;-;-;1641;1918;20;20
+20;Seligenstadt bei Würzburg;way;32345522;Ja;-;-;62;116;5;5
+21;Untereisenheim;way;59948818;Ja;-;-;694;640;20;20
+22;Unterpleichfeld;relation;11701558;Ja;-;-;765;1636;5;5
+23;Wipfeld;way;97204018;Ja;-;-;945;1094;5;5
+24;Gut Seligenstadt;way;28718376;Ja;-;-;16;31;0;5
+25;Burggrumbach;way;310875283;Ja;-;-;456;993;0;10
+26;Brück;way;94366987;Ja;-;-;253;198;0;3
+27;Neusetz;way;224769055;Ja;-;-;293;115;3;3
+28;Köhler;way;125812478;Ja;-;-;34;40;0;0
+29;Kaltenhausen;way;59948966;Ja;-;-;18;10;0;0
+30;Effeldorf;way;27939567;-;Ja;-;316;463;0;3
+31;Schwarzenau;way;26962484;-;Ja;-;491;673;0;0
+32;Rupprechtshausen;way;23801688;-;Ja;-;139;104;0;0
+33;Hilbertshausen;way;385041096;-;Ja;-;137;128;0;0
+34;Erbshausen;way;31854274;-;Ja;-;551;822;0;0
+35;Fahrbrück;way;32840231;-;Ja;-;38;20;0;0
+36;Eßleben;way;31540489;-;Ja;-;633;1270;0;0
+37;Rieden;way;813465579;-;Ja;-;728;930;0;0
+38;Teilheim;way;391706324;-;Ja;-;767;750;0;0
+39;Mittlerer Rothof;way;28934499;-;Ja;-;38;38;0;0
+40;Oberer Rothof;way;28934500;-;Ja;-;27;27;0;0
+41;Unterer Rothof;way;28934501;-;Ja;-;91;91;0;0
+42;Hausen;way;20623528;-;Ja;-;786;853;0;0
+43;Sommerach;way;26962512;-;-;Ja;675;1415;3;3
+44;Volkach;way;46876024;-;-;Ja;1906;4561;3;3
+45;Obervolkach;way;26962613;-;-;Ja;358;686;0;0
+46;Nordheim;way;126027313;-;-;Ja;413;1025;0;0
+47;Fahr;way;26962598;-;-;Ja;501;700;0;0
+48;Stammheim;way;97208466;-;-;Ja;509;924;0;0
+49;Hirschfeld;way;377699180;-;-;Ja;685;409;0;0
+50;Schwarzach;way;26962422;-;-;Ja;1283;1627;0;0
+51;Gaibach;way;32944465;-;-;Ja;320;464;0;0
+52;Rottendorf;relation;11942003;-;-;Ja;2484;5255;0;0
+53;Rimpar;way;30594078;-;-;Ja;1325;5822;0;0
+54;Lengfeld;way;23400484;-;-;Ja;3650;10966;0;1
+55;Versbach;way;28904039;-;-;Ja;3640;8407;0;1
+56;Waigolshausen;way;96094844;-;-;Ja;337;1397;0;0
+57;Hergolshausen;way;96094845;-;-;Ja;586;637;0;0
+58;Garstadt;way;97206420;-;-;Ja;443;546;0;0
+59;Werneck;way;374683698;-;-;Ja;864;2269;0;2
+60;Ettleben;way;41436630;-;-;Ja;872;900;0;0
+61;Gerbrunn;way;24277688;-;-;Ja;1727;6480;2;0
+62;Grombühl;way;29264961;-;-;Ja;724;7424;3;2
+63;Mainstockheim;way;127707448;-;-;Ja;1492;1873;0;0
+64;Albertshofen;way;127708566;-;-;Ja;1767;1978;0;0
